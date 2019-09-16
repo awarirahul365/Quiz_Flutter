@@ -1,6 +1,6 @@
 # quiz_flu
 
-A new Flutter project.
+Simple integer quiz usin flutter.
 
 ## Getting Started
 
